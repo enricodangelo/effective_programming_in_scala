@@ -1,0 +1,1 @@
+# Effective Programming in Scala
